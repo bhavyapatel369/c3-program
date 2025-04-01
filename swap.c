@@ -20,6 +20,4 @@ void main()
     b = a - b;
     a = a - b;
     printf("\na=%d b=%d",a,b);
-
-
 }
